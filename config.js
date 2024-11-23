@@ -25,7 +25,7 @@ global.caption = process.env.CAPTION || global.caption || "© PLAG CORPORATION"
 
 
 global.devs = "" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "50940994827";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "50942561123";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "50947440869";
 
 
